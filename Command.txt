@@ -1,2 +1,3 @@
 git clone https://github.com/rusang/test2
 changed everyfile
+    1 Submit the first version u-boot source code.                                                                                                 2 The source code git from: git://git.denx.de/u-boot.git                                                                                                 3 The latest commit is: 4832e17787acb29734d895751bc7a594908aecc6  by Tom Rini (Fri Dec 18 07:28:24 2015)    4 The pre commit is: b5e9b9a9a1bb231e35e206f8f3e2becee1dd06ab by Michal Simek (Wed Dec 9 11:53:25 2015)
